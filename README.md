@@ -5,7 +5,8 @@ Spatialsurf is an open source infinite runner developed by TheAidency using the 
 
 # Licensing + Credit
 
-Assets have their own different policies for usage as put forward by their own creators.
+Assets have their own different policies for usage as put forward by their own creators.     
+SPATIALSURF IS RELEASED UNDER THE MPL 2.0 AND REQUIRES SOURCE CODE DISCLOSURE OF DERIVATIVE WORKS. ASSETS ARE ALLOWED TO BE EXCLUDED.
 
 ## Music - © Cameron Cluelow 2018-2021
 
