@@ -14,7 +14,7 @@ The game's music was created by Cameron Cluelow, better known by his artist name
 
 ## Font - Kongtext by Codeman38	
 
-Codeman38 provided the font on their website, [zone38.net](https://www.zone38.net/font/) and have [granted non-exclusive, attribution based usage of the font.](https://twitter.com/codeman38/status/1334482294673960960)
+Codeman38 provided the font on their website, [zone38.net](https://www.zone38.net/font/). They have [granted non-exclusive, attribution based usage of the font.](https://twitter.com/codeman38/status/1334482294673960960)
 
 ## Spaceship Model - Interstellar Runner by Max Parata
 
